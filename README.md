@@ -1,7 +1,6 @@
 # 🎥 Go + HLS Video Streaming Server
 
 This project demonstrates how to build a **video streaming server using Go and HLS (HTTP Live Streaming)**, along with a simple HTML client interface.  
-It is inspired by the article **"Build a Video Streaming Server with GoLang using HLS"**.
 
 ## 📁 Project Structure
 
